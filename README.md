@@ -34,8 +34,11 @@ description language.
 3. Write the Combinational Logic Code:
 *Open the newly created Verilog or VHDL file and write the code for your
 combinational logic.
+
 4.Compile the Project:
+
 5.Analyze and Fix Errors:
+
 6.Verification: *Click on "File" > "New" > "Verification/Debugging Files" > "University
 Program VWF".
 *To compile the project, click on "Processing" > "Start Compilation" in the
@@ -48,6 +51,7 @@ Quartus will display them in the Messages window.
 *View the RTL diagram.
 *Once Waveform is created Right Click on the Input/Output Panel > " Insert
 Node or Bus" > Click on Node Finder > Click On "List" > Select All.
+
 *Give the Input Combinations according to the Truth Table and then simulate
 the Output Waveform.
 ## Program:
