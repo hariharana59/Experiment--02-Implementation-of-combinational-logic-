@@ -55,8 +55,10 @@ Quartus will display them in the Messages window.
 
  *Click on "File" > "New" > "Verification/Debugging Files" > "University
 Program VWF".
+
 *Once Waveform is created Right Click on the Input/Output Panel > " Insert
-Node or Bus" > Click on Node Finder > Click On "List" > Select All
+Node or Bus" > Click on Node Finder > Click On "List" > Select All.
+
 *Give the Input Combinations according to the Truth Table and then simulate
 the Output Waveform.
 
