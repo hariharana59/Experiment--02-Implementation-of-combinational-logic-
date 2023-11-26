@@ -35,11 +35,11 @@ description language.
 *Open the newly created Verilog or VHDL file and write the code for your
 combinational logic.
 
-4.Compile the Project:
+ 4.Compile the Project:
 
-5.Analyze and Fix Errors:
+ 5.Analyze and Fix Errors:
 
-6.Verification: *Click on "File" > "New" > "Verification/Debugging Files" > "University
+ 6.Verification: *Click on "File" > "New" > "Verification/Debugging Files" > "University
 Program VWF".
 *To compile the project, click on "Processing" > "Start Compilation" in the
 menu.
