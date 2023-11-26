@@ -124,9 +124,13 @@ endmodule
 ```
 
 ## RTL realization
+![dg3](https://github.com/hariharana59/Experiment--02-Implementation-of-combinational-logic-/assets/144980130/14d5d132-ee9f-4b09-930d-51d235117ce1)
 
-## Output:
-## RTL
+## Truth Table
+![dg](https://github.com/hariharana59/Experiment--02-Implementation-of-combinational-logic-/assets/144980130/5a3bcc09-c3c1-48ce-a74c-90b07db662e1)
+
 ## Timing Diagram
+![dg2](https://github.com/hariharana59/Experiment--02-Implementation-of-combinational-logic-/assets/144980130/1e46ebcf-a860-49c8-b09f-a2db8d2a030e)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
