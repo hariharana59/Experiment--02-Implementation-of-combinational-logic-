@@ -35,8 +35,10 @@ and select "Add New File."
 description language.
 
 3. Write the Combinational Logic Code:
+
 *Open the newly created Verilog or VHDL file and write the code for your
 combinational logic.
+
 4.Compile the Project:
 
 *To compile the project, click on "Processing" > "Start Compilation" in the
